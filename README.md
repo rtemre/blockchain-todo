@@ -10,3 +10,8 @@
 ### Issues
 
 - Package version compatibility issue(https://stackoverflow.com/questions/76653107/how-to-solve-package-incompatibility-when-adding-wagmi-viem-to-react-typescript#:~:text=viem%401.2.12%20and%20%40,4%20.)
+
+### Update
+- Consensys Announces the Sunset of Truffle and Ganache and New HardHat Partnership
+- Consensys announces the sunsetting of web3 pioneering dev tools, Truffle and Ganache, and welcomes new support for developers with a HardHat partnership.
+[for more details](https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat?utm_source=github&utm_medium=referral&utm_campaign=2023_Sep_truffle-sunset-2023_announcement_)
